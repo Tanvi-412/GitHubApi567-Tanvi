@@ -20,5 +20,5 @@ def github_api(id):
     for l,m in repo.items():
         return (f"Repository Name: {l}, Total number of commits: {m}")
 
-# if __name__ == '__main__':
-#     github_api("Tanvi-412")
+if __name__ == '__main__':
+    github_api("Tanvi-412")

@@ -13,6 +13,8 @@ class TestGithub(unittest.TestCase):
 
     def testgithub(self): 
         self.assertEqual(github_api("Tanvi-412"),"Repository Name: 567-HW01, Total number of commits: 2")
+        
+
 
 
 if __name__ == '__main__':
