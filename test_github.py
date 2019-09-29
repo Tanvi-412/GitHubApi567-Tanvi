@@ -1,6 +1,6 @@
 """Name: Tanvi Hanamshet
 Course: SSW 567
-Script:  Test github script
+Script:  Test github script for mock
 """
 
 
